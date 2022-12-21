@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project_1__Prime_numbers_
+namespace Project_1__perfect_numbers_
 {
     internal class Program
     {
@@ -13,34 +13,31 @@ namespace Project_1__Prime_numbers_
             Console.Write(" - Please enter first number : ");
             int n1 = int.Parse(Console.ReadLine());
 
-            Console.Write("\n - Please enter second number : ");
+            Console.Write("\n - Please enter first number : ");
             int n2 = int.Parse(Console.ReadLine());
 
-            Console.Write("\n - Prime numbers between " + n1 + " and " + n2 + " are : ");
+            Console.Write("\n - Perfect numbers between " + n1 + " and " + n2 + " are : ");
 
             for (int i = n1; i <= n2; i++)
             {
 
-                if (i == 0 || i == 1)
+                int sum = 0;
+                for (int j = 1; j < i; j++)
                 {
-                    continue;
-                }
 
-                int x = 1;
-
-                for (int j = 2; j <= i / 2; ++j)
-                {
                     if (i % j == 0)
                     {
-                        x = 0;
-                        break;
+                        sum += j;
                     }
+
                 }
 
-                if (x == 1)
+                if (sum == i)
                 {
+
                     Console.Write(" " + i + " ,");
                 }
+
             }
             Console.ReadKey();
         }

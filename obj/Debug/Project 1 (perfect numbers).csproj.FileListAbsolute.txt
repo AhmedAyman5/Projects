@@ -1,0 +1,8 @@
+C:\Users\AHMED AYMAN\source\repos\Project 1 (perfect numbers)\Project 1 (perfect numbers)\bin\Debug\Project 1 (perfect numbers).exe.config
+C:\Users\AHMED AYMAN\source\repos\Project 1 (perfect numbers)\Project 1 (perfect numbers)\bin\Debug\Project 1 (perfect numbers).exe
+C:\Users\AHMED AYMAN\source\repos\Project 1 (perfect numbers)\Project 1 (perfect numbers)\bin\Debug\Project 1 (perfect numbers).pdb
+C:\Users\AHMED AYMAN\source\repos\Project 1 (perfect numbers)\Project 1 (perfect numbers)\obj\Debug\Project 1 (perfect numbers).csproj.AssemblyReference.cache
+C:\Users\AHMED AYMAN\source\repos\Project 1 (perfect numbers)\Project 1 (perfect numbers)\obj\Debug\Project 1 (perfect numbers).csproj.SuggestedBindingRedirects.cache
+C:\Users\AHMED AYMAN\source\repos\Project 1 (perfect numbers)\Project 1 (perfect numbers)\obj\Debug\Project 1 (perfect numbers).csproj.CoreCompileInputs.cache
+C:\Users\AHMED AYMAN\source\repos\Project 1 (perfect numbers)\Project 1 (perfect numbers)\obj\Debug\Project 1 (perfect numbers).exe
+C:\Users\AHMED AYMAN\source\repos\Project 1 (perfect numbers)\Project 1 (perfect numbers)\obj\Debug\Project 1 (perfect numbers).pdb
